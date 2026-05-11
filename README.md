@@ -39,7 +39,7 @@
 <br>
 
 <p>🌐 nemagoswami.com</p>
-<p>✉ nemagoswami00@gmail.com</p>
+<p>✉ nemacg.eng@gmail.com</p>
 
 </div>
 
